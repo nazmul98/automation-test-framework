@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" verbose="1" >
+	<listeners>
+		<listener class-name="orange.ny.listener.TestListener" />
+	</listeners> 
+  <test name="Nopackage" >
+    <classes>
+       <class name="orange.ny.runner.MyRunner" />
+    </classes>
+  </test>
+</suite>
+

@@ -1,0 +1,27 @@
+2022-03-12 19:36:21,845 - Test Lead Alam -INFO - ****** Start Automation ******
+2022-03-12 19:36:21,848 - Test Lead Alam -INFO - ****** Starting Chrome Browser ******
+2022-03-12 19:36:21,981 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 19:36:22,004 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mirhuque/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 19:36:25,229 - Test Lead Alam -INFO - ****** Entered Username ******
+2022-03-12 19:36:25,614 - Test Lead Alam -INFO - ****** Entered Password ******
+2022-03-12 19:36:25,747 - Test Lead Alam -INFO - ****** Sign In Application ******
+2022-03-12 19:36:27,510 - Test Lead Alam -INFO - ****** Verify the page title ******
+2022-03-12 19:36:27,518 - Test Lead Alam -INFO - ****** End Automation ******
+2022-03-12 19:37:29,781 - Test Lead Alam -INFO - ****** Start Automation ******
+2022-03-12 19:37:29,784 - Test Lead Alam -INFO - ****** Starting Chrome Browser ******
+2022-03-12 19:37:29,912 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 19:37:29,932 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mirhuque/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 19:37:33,270 - Test Lead Alam -INFO - ****** Entered Username ******
+2022-03-12 19:37:33,607 - Test Lead Alam -INFO - ****** Entered Password ******
+2022-03-12 19:37:33,789 - Test Lead Alam -INFO - ****** Sign In Application ******
+2022-03-12 19:37:33,791 - Test Lead Alam -INFO - ****** Verify the page title ******
+2022-03-12 19:37:33,797 - Test Lead Alam -INFO - ****** End Automation ******
+2022-03-12 19:38:14,625 - Test Lead Alam -INFO - ****** Start Automation ******
+2022-03-12 19:38:14,628 - Test Lead Alam -INFO - ****** Starting Chrome Browser ******
+2022-03-12 19:38:14,766 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-12 19:38:14,789 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mirhuque/.cache/selenium/chromedriver/mac64/99.0.4844.51/chromedriver
+2022-03-12 19:38:18,109 - Test Lead Alam -INFO - ****** Entered Username ******
+2022-03-12 19:38:18,426 - Test Lead Alam -INFO - ****** Entered Password ******
+2022-03-12 19:38:18,599 - Test Lead Alam -INFO - ****** Sign In Application ******
+2022-03-12 19:38:20,290 - Test Lead Alam -INFO - ****** Verify the page title ******
+2022-03-12 19:38:20,300 - Test Lead Alam -INFO - ****** End Automation ******
